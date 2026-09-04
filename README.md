@@ -1,42 +1,50 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="RotageneKodex Banner" width="100%">
+  <img src="assets/repo-banner.png" alt="RotageneKodex — Interactive Codon Dialer & Genetic Code Laboratory" width="100%">
 </p>
 
 # 🧬 RotageneKodex
-### Interactive Codon Dialer & Genetic Code Laboratory
 
-**RotageneKodex** is an open-source educational engine for visualizing the Genetic Code. It simplifies complex molecular biology concepts like codon decoding and protein synthesis through an interactive, browser-based interface.
+### *Interactive Codon Dialer & Genetic Code Laboratory*
 
----
+> **RotageneKodex** is an interactive visualization exploring the **Genetic Code**, codon decoding, protein synthesis, and mutation through a browser-based molecular biology laboratory.
+>
+> 🧬 **Genetics** · 🧪 **Molecular Biology** · 🧫 **Protein Synthesis**
 
-## 🚀 Core Functionality
-
-* **3-Ring Codon Dialer:** Precision interaction to map codons to their corresponding amino acids.
-* **Real-time Translation:** Instant conversion of mRNA sequences into functional protein data.
-* **Mutation Simulator:** Interactive exploration of Silent, Missense, and Nonsense mutations.
-* **Codon Reference:** High-density, interactive table for all 64 codons and 20 amino acids.
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
-## 🎓 Academic Alignment
+## ✦ Features
 
-Designed for secondary and higher education (Biology/Genetics curriculum). Ideal for demonstrating the mechanics of translation and the triplet code through hands-on experimentation.
+**🧬 3-Ring Codon Dialer**  
+Interactively decode mRNA codons and identify their corresponding amino acids.
 
----
+**🧪 Real-time Translation**  
+Translate mRNA sequences into their corresponding amino acid sequences.
 
-## 📄 License
+**🧬 Mutation Simulator**  
+Explore **silent, missense, and nonsense mutations** and their effects on protein coding.
 
-GNU General Public License v3.0 (GPL-3.0)
-
----
-
-## 👨‍🔬 Author
-
-**Draven Ashcroft**  
-*M.Sc. Agricultural Entomology | ASRB–NET Qualified*
+**📋 Codon Reference**  
+Explore an interactive reference of all **64 codons** and their corresponding amino acids.
 
 ---
 
-<p align="center">
-  <i>"The language of life, decoded."</i>
-</p>
+## 🧬 Core Concepts
+
+**Genetic Code · Codons · Anticodons · Translation · Protein Synthesis · Mutations · Amino Acids**
+
+---
+
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
+
+---
+
+## 📜 License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
