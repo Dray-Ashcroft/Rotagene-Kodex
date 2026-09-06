@@ -10,7 +10,7 @@
 >
 > 🧬 **Genetics** · 🧪 **Molecular Biology** · 🧫 **Protein Synthesis**
 
-**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
+**🔬 [Explore the Simulation](https://rotagene-kodex.dray-ashcroft.workers.dev/)**
 
 ---
 
